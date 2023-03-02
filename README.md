@@ -3,7 +3,6 @@
 
 
 <p>Cursando Ciência da Computação e estudando bastante para me tornar um ótimo desenvolvedor. ✌</p>
-<br/>
 
 ## 🚀 Tecnologias que eu tenho conhecimento
 
