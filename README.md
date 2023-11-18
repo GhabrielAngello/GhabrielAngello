@@ -4,10 +4,6 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e inovaçã
 
 ## 🚀 Tecnologias que eu domino
 
-<table>
-<tr>
-<td>
-
 ### Front-end
 - ReactJS <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="30">
 - HTML <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="30">
@@ -28,21 +24,10 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e inovaçã
 ### Banco de Dados
 - MySQL <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="30">
 
-</td>
-<td>
-
-![Ghabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GhabrielAngello&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhabrielAngello&hide_progress=true)](https://github.com/GhabrielAngello/github-readme-stats)
-
-</td>
-</tr>
-</table>
-
 ## 🌟 Projetos em Destaque
 
 - [Menu Pay](https://github.com/GhabrielAngello/MenuPay_app) - App que te deixa reservar mesa no seu restaurante favorito, escolher a data e hora, e ainda por cima fazer seu pedido antes mesmo de chegar lá. Sim, é exatamente isso que o Menu Pay faz! Foi um projeto e tanto, combinando tudo que aprendi e mais um pouco.
-- [CRUD Conteiner](https://github.com/GhabrielAngello/crud-conteiner-movimentacoes-relatorios) - É um sistema dinâmico em PHP, MySQL e Bootstrap para gerenciamento e relatório de containers e suas movimentações. Oferece funcionalidades completas de CRUD, relatórios detalhados e uma interface de usuário intuitiva..
+- [CRUD Conteiner](https://github.com/GhabrielAngello/crud-conteiner-movimentacoes-relatorios) - É um sistema dinâmico em PHP, MySQL e Bootstrap para gerenciamento e relatório de containers e suas movimentações. Oferece funcionalidades completas de CRUD, relatórios detalhados e uma interface de usuário intuitiva.
 
 ## 📫 Contato
 
