@@ -41,6 +41,7 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e inovaçã
 - [LinkedIn](https://www.linkedin.com/in/ghabriel-angello/)
 - Email: ghabrielangelo@gmail.com
 
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhabrielAngello&hide_progress=true)](https://github.com/GhabrielAngello/github-readme-stats)
 
 </td>
