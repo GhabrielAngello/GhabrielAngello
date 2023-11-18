@@ -41,10 +41,10 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e inovaçã
 
 ## 🌟 Projetos em Destaque
 
-- [Nome do Projeto](link_do_projeto) - Breve descrição do projeto.
-- ...
+- [Menu Pay]([https://github.com/GhabrielAngello/MenuPay_app]) - App que te deixa reservar mesa no seu restaurante favorito, escolher a data e hora, e ainda por cima fazer seu pedido antes mesmo de chegar lá. Sim, é exatamente isso que o Menu Pay faz! Foi um projeto e tanto, combinando tudo que aprendi e mais um pouco.
+- [CRUD Conteiner]([https://github.com/GhabrielAngello/crud-conteiner-movimentacoes-relatorios]) - É um sistema dinâmico em PHP, MySQL e Bootstrap para gerenciamento e relatório de containers e suas movimentações. Oferece funcionalidades completas de CRUD, relatórios detalhados e uma interface de usuário intuitiva..
 
 ## 📫 Contato
 
-- [LinkedIn](seu_linkedin)
-- Email: seuemail@example.com
+- [LinkedIn](https://www.linkedin.com/in/ghabriel-angello/)
+- Email: ghabrielangelo@gmail.com
