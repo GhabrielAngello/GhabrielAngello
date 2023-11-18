@@ -4,6 +4,10 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e inovaçã
 
 ## 🚀 Tecnologias que eu domino
 
+<table>
+<tr>
+<td>
+
 ### Front-end
 - ReactJS <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="30">
 - HTML <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="30">
@@ -24,9 +28,16 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e inovaçã
 ### Banco de Dados
 - MySQL <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="30">
 
+</td>
+<td>
+
 ![Ghabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GhabrielAngello&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhabrielAngello&hide_progress=true)](https://github.com/GhabrielAngello/github-readme-stats)
+
+</td>
+</tr>
+</table>
 
 ## 🌟 Projetos em Destaque
 
