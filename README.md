@@ -2,6 +2,10 @@
 
 Sou estudante de Ciência da Computação, apaixonado por tecnologia e inovação. Estou em constante aprendizado para me tornar um desenvolvedor que faz a diferença. ✌
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ## 🚀 Tecnologias que eu domino
 
 ### Front-end
@@ -24,6 +28,9 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e inovaçã
 ### Banco de Dados
 - MySQL <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="30">
 
+</td>
+<td valign="top" width="50%">
+
 ## 🌟 Projetos em Destaque
 
 - [Menu Pay](https://github.com/GhabrielAngello/MenuPay_app) - App que te deixa reservar mesa no seu restaurante favorito, escolher a data e hora, e ainda por cima fazer seu pedido antes mesmo de chegar lá. Sim, é exatamente isso que o Menu Pay faz! Foi um projeto e tanto, combinando tudo que aprendi e mais um pouco.
@@ -33,3 +40,7 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e inovaçã
 
 - [LinkedIn](https://www.linkedin.com/in/ghabriel-angello/)
 - Email: ghabrielangelo@gmail.com
+
+</td>
+</tr>
+</table>
